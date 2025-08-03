@@ -4,8 +4,8 @@ Predictive Analytics for Cholera Outbreaks (2000–2023)
 
 This project applies data science and machine learning to predict cholera outbreak severity based on historical surveillance data, enabling proactive public health responses. The analysis supports goals of the WHO and GTFCC to reduce cholera deaths through early intervention, better targeting, and resource optimization.
 
-1. Project Overview
-   ================
+1. # Project Overview
+
    Project_Capstone dane By: Huruma Innocent
    Course: Introduction to Big Data Analytics  
    Institution Adventist University of Central Africa (AUCA)  
@@ -19,7 +19,7 @@ This project applies data science and machine learning to predict cholera outbre
 
 **Predict annual cholera case trends and outbreak severity using historical, environmental, and regional health data.**
 
-## 🛠️ Methodology
+## Methodology
 
 ### 🔹 Step 1: Data Collection & Cleaning
 
