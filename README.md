@@ -6,7 +6,7 @@ This project applies data science and machine learning to predict cholera outbre
 
 1. # Project Overview
 
-   Project_Capstone dane By: Huruma Innocent
+   Project_Capstone dane By: Huruma Innocent, ID:25514
    Course: Introduction to Big Data Analytics  
    Institution Adventist University of Central Africa (AUCA)  
    Year: 2024–2025  
@@ -68,3 +68,5 @@ An interactive dashboard was developed in **Power BI** to visualize:
   ![alt text](Map-1.jpg)
   Dashbord
   ![alt text](Dashbord.jpg)
+
+Let it serve as a reminder that excellence, integrity, and commitment matter — whether in data science, public health, or everyday life.
