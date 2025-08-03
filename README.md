@@ -69,4 +69,5 @@ An interactive dashboard was developed in **Power BI** to visualize:
   Dashbord
   ![alt text](Dashbord.jpg)
 
-Let it serve as a reminder that excellence, integrity, and commitment matter — whether in data science, public health, or everyday life.
+Let it serve as a reminder that excellence, integrity, and commitment matter  
+whether in data science, public health, or everyday life.
